@@ -1,0 +1,116 @@
+body{
+    font-family: 'EB Garamond', serif;
+    background-color: #fff1ce;
+}
+h1{
+  font-size: 6rem;
+  font-weight: 700;
+  line-height: 1.5;
+}
+
+h2{
+  color: #d29d2b;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+h2 a{
+  color: #d29d2b;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+h3{
+  font-weight: bold;
+  padding: 0.5rem;
+}
+
+p{
+  font-size: 1.5rem;
+  font-style: italic;
+}
+
+/* TITLE SECTION */
+#title{
+  background-color: #fff1ce;
+  color: #d29d2b;
+  font-size: 5rem;
+  padding: 10% 10% 2%;
+
+}
+
+#date{
+  font-size: 8rem;
+  padding: 28% 0;
+  vertical-align: middle;
+  text-align: center;
+}
+
+.container-fluid testimonial{
+  position: absolute;
+}
+
+.carousel-item{
+    padding: 3% 15%;
+}
+
+.testimonialImage{
+  margin: 10px;
+  width: 90%;
+}
+
+
+
+.navbar{
+    color: #d29d2b;
+    background-color: #139487;
+    padding: 0 10%;
+
+}
+
+.navbar-brand{
+  font-size: 4.5rem;
+  font-weight: 500;
+  padding-left: 15px;
+}
+
+.nav-item{
+  font-size: 1.5rem;
+  padding: 0 18px;
+}
+
+#OurStory{
+  background-color: #fff1ce;
+  line-height: 1.5;
+  position: relative;
+  padding: 10% 10% 12%;
+  text-align: center;
+}
+
+/* WEDDING Section */
+
+#wedding{
+  background-color: #fff1ce;
+  line-height: 1.5;
+  padding: 10% 10% 12%;
+  position: relative;
+}
+
+.feature{
+  padding: 4rem 2rem;
+}
+
+
+/* RSVP Section */
+#rsvp{
+  color: #d29d2b;
+  background-color: #fff1ce;
+  text-align: center;
+}
+
+
+
+#footer{
+  background-color: #fff1ce;
+  text-align: center;
+}
